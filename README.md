@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm looking to collaborate on Machine Learning Projects 
 
-I'm a Machine Learning Engineer and Co-founder of isoMora where my team  have developed  innovative solutions by intelligent applications. Passionate  about AI, Deep Learning and Computer vision for social impact, I have strong technical skills and an academic background in engineering, data, machine learning and full stack development.
+I'm a Machine Learning Engineer and Co-founder of [isoMora](https://isomora.com) where my team  have developed  innovative solutions by intelligent applications. Passionate  about AI, Deep Learning and Computer vision for social impact, I have strong technical skills and an academic background in engineering, data, machine learning and full stack development.
 
 <!--
 **obeshor/obeshor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
