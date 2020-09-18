@@ -20,11 +20,7 @@ I'm a Machine Learning Engineer, passionate  about Deep Learning,  Computer visi
  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=obeshor&show_icons=true" alt="obeshor" /></p>
 
-<p align="left">
- <a href="https://twitter.com/OBAMSerge" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="OBAMSerge" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/yannick-serge-obam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yannick-serge-obam" height="30" width="30" /></a>
-<a href="https://kaggle.com/yannicksergeobam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="yannicksergeobam" height="30" width="30" /></a>
-<a href="https://medium.com/@yannicksergeobam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@yannicksergeobam" height="30" width="30" /></a></p>
+
 
 <!--
 **obeshor/obeshor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
