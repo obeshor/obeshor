@@ -8,11 +8,11 @@ I'm a Machine Learning Engineer, passionate  about Deep Learning,  Computer visi
  <a href="https://www.linkedin.com/in/yannick-serg-eobam"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a> 
  <img src="https://komarev.com/ghpvc/?username=obeshor" alt="obeshor" /> </p>
 
-- 🌱 I’m currently learning **MLOps, Apache Spark, Data Science, OpenCV **
+- 🌱 I’m currently learning **MLOps, Apache Spark, Data Science, OpenCV**
 
 - 📝 I regularly write articles on https://medium.com/@yannicksergeobam
 
-- 💬 Ask me about **Python, Java, Data Visualization, Machine Learning, Deep Learning, Tensorflow, PyTorch, Scikit-learn, Android, React **
+- 💬 Ask me about **Python, Java, Data Visualization, Machine Learning, Deep Learning, Tensorflow, PyTorch, Scikit-learn, Android, React**
 
 - 🎤 Active public speaker sharing my experience of Machine Learning on different events.
 
