@@ -12,7 +12,7 @@ I'm a Machine Learning Engineer, passionate  about Deep Learning,  Computer visi
 
 - 📝 I regularly write articles on https://medium.com/@yannicksergeobam
 
-- 💬 Ask me about **Python, Java, Data Visualization, Machine Learning, Deep Learning, Tensorflow, PyTorch, Scikit-learn, Android, React**
+- 💬 Ask me about **Python, Java, Data Visualization, Machine Learning, Deep Learning, Tensorflow, PyTorch, Scikit-learn, Android, React, Cloud computing, DevOps**
 
 - 🎤 Active public speaker sharing my experience of Machine Learning on different events.
 
