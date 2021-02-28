@@ -10,7 +10,7 @@ I'm a Machine Learning Engineer, passionate  about Deep Learning,  Computer visi
 
 - 🌱 I’m currently learning **MLOps, Apache Spark, Private AI**
 
-- 📝 I regularly write articles on https://medium.com/@yannicksergeobam
+- 📝 I regularly write articles on https://yannicksergeobam.medium.com/
 
 - 💬 Ask me about **Python, Java, Data Science Machine Learning, Deep Learning, Tensorflow, PyTorch, Scikit-learn, Android, React, Cloud computing, DevOps**
 
