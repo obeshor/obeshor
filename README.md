@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Yannick Serge
 
-I'm a Machine Learning Engineer, passionate  about Deep Learning,  Computer vision and NLP  for social impact. I have strong technical skills and an academic background in engineering, data, machine learning and full stack development.
+I'm a AI/Machine Learning Engineer, passionate  about Deep Learning,  Computer vision and NLP  for social impact. I have strong technical skills and an academic background in engineering, data, machine learning and full stack development.
 
 <p align="middle"><img src="https://media.giphy.com/media/3o7TKGAJ7CLp95cNI4/giphy.gif" width="90px"></h2> 
 <p align="middle"> 
