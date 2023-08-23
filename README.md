@@ -8,7 +8,6 @@ I'm a AI/Machine Learning Engineer, passionate  about Deep Learning,  Computer v
  <a href="https://www.linkedin.com/in/yannick-serg-eobam"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a> 
  <img src="https://komarev.com/ghpvc/?username=obeshor" alt="obeshor" /> </p>
 
-- 🌱 I’m currently learning **Private AI**
 
 - 📝 I regularly write articles on https://yannicksergeobam.medium.com/
 
