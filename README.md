@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Yannick Serge
 
-I'm a AI/Machine Learning Engineer, passionate  about building AI solutions  for social impact. I have strong technical skills and an academic background in engineering, data, AI and full stack development.
-Transitioning to AI Safety Research Engineer . 
+I'm a AI/Machine Learning Engineer, passionate  about building AI solutions  for social impact. Transitioning to **AI Safety Research Engineer**.  I have strong technical skills and an academic background in engineering, data, AI and full stack development.
+ . 
 
 <p align="middle"><img src="https://media.giphy.com/media/3o7TKGAJ7CLp95cNI4/giphy.gif" width="90px"></h2> 
 <p align="middle"> 
